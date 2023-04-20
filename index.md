@@ -18,8 +18,11 @@ The 2nd International Conference on Smart systems and Green energy Technologies 
 ---
 
 ## Technical Sponsors
+<p align="center">
+<img width="300" height="300" src="../../assets/images/iste.jpg"><br>
+&nbsp;</p>
 
-
+---
 
 ## Important Dates
 

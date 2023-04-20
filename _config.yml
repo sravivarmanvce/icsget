@@ -17,7 +17,7 @@ title: ICSGET 2023
 description: International Conference on Smart Systems and Green Energy Technologies 2023
 baseurl: "/temp" # the subpath of your site, e.g. /blog
 url: "https://icsget.com/" # the base hostname & protocol for your site, e.g. http://example.com
-repository: 2023 # for github-metadata
+repository: icsget # for github-metadata
 
 permalink: pretty
 

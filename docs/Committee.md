@@ -18,8 +18,9 @@ Sri E. Prabhakar Reddy, Treasurer, Vardhaman College of Engineering, Hyderabad, 
 Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India<br>
 
 ### General Chair
-Sanjeevikumar Padmanabhan (Aarhus University, Denmark)<br>
+Yassine Maleh (Sultan Moulay Slimane University, Morocco)<br>
 Abdelkrim Haqiq (FST, Hassan 1st University, Settat, Morocco)<br>
+Loveleen Gaur (Amity University, India)<br>
 M. A. Jabbar (Vardhaman College of Engineering, India)<br>
 MD Asif (Vardhaman College of Engineering, India)<br>
 
@@ -119,7 +120,6 @@ Hilal Arsalan (Izmir Bakircay University, Turkey)<br>
 K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
 
 ### Organizing Committee
-Loveleen Gaur (Amity University, India)<br>
 Patience Usoro Usip (University of Uyo, Nigeria )<br>
 M. Affan Badar (Indiana State University, USA)<br>
 N. Karuppiah (Vardhaman College of Engineering, India)<br>
