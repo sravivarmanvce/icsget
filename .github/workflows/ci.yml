@@ -58,7 +58,7 @@ jobs:
         BUNDLE_GEMFILE: fixtures/Gemfile-github-pages
 
   assets:
-
+    name: Test CSS and JS
     runs-on: ubuntu-latest
 
     strategy:
@@ -73,3 +73,5 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: npm test
+    - run: npm audit fix --force
+    
