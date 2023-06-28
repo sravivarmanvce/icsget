@@ -23,8 +23,8 @@ The 2nd International Conference on Smart systems and Green energy Technologies 
 
 ## Important Dates
 
-| Firm Deadline           | August 15, 2023|
-| Author Notification     | September 15, 2023|
-| Camera-Ready Submission | October 15, 2023|
-| Conference Dates        | 16-18 November, 2023|
+| Submission Deadline     | August 31, 2023|
+| Author Notification     | September 3, 2023|
+| Camera-Ready Submission | September 5, 2023|
+| Conference Dates        | September 9, 2023|
 
