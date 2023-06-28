@@ -37,4 +37,4 @@ Three different types of submissions are expected: 1) regular paper, 2) invited 
 
 {: .highlight }
 **Important Note**
-Regardless of submission types, authors are always advised to submit their original and unpublished work (related to the conference theme).
+Regardless of submission types, authors are always advised to submit their original and unpublished work (related to the conference theme). 
