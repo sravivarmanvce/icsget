@@ -58,7 +58,7 @@ jobs:
         BUNDLE_GEMFILE: fixtures/Gemfile-github-pages
 
   assets:
-    name: Test CSS and JS
+
     runs-on: ubuntu-latest
 
     strategy:
