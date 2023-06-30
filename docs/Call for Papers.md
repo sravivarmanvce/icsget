@@ -52,4 +52,4 @@ The 2nd International Conference on Smart Systems and Green Energy Technologies 
 
 ---
 
-Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (preseneted) papers will be published in the Conference Proceedings of **Springer**.
+Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (preseneted) papers will be published in the **Scopus** indexed Conference Proceedings.
