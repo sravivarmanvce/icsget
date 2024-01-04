@@ -26,7 +26,7 @@ The 2nd International Conference on Smart systems and Green Energy Technologies 
 
 ## Important Dates
 
-| Submission Deadline     | March 30, 2024|
-| Author Notification     | April 15, 2024|
-| Camera-Ready Submission | April 25, 2024|
+| Submission Deadline     | March 01, 2024|
+| Author Notification     | April 20, 2024|
+| Camera-Ready Submission | April 30, 2024|
 | Conference Dates        | May 24, 25, 2024|
