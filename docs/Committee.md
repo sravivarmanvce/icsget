@@ -6,7 +6,7 @@ nav_order: 5
 ![](../../assets/images/bg_windmill.jpg)
 ## Committee
 ---
-### ICSGET 2022 - Organizing Committee
+### ICSGET 2024 - Organizing Committee
 ---
 ### Chief Patron
 Dr. T. Vijender Reddy, Chairman, Vardhaman College of Engineering, Hyderabad, India<br>

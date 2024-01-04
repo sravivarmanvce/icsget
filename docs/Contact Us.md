@@ -16,13 +16,13 @@ Professor and Head, Department of EEE<br>
 Vardhaman College of Engineering, Hyderabad, India<br>
 Mobile: +91 97518 33346<br>
 
-Dr. B. Praveenkumar<br>
-Associate Professor, Department of EEE<br>
-Vardhaman College of Engineering, Hyderabad, India<br>
-Mobile: +91 96296 32445<br>
-
 Dr. S. Ravivarman<br>
 Professor, Department of EEE<br>
 Vardhaman College of Engineering, Hyderabad, India<br>
 Mobile: +91 99942 77431<br>
+
+Dr. B. Praveenkumar<br>
+Associate Professor, Department of EEE<br>
+Vardhaman College of Engineering, Hyderabad, India<br>
+Mobile: +91 96296 32445<br>
 

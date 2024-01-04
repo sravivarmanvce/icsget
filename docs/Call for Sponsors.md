@@ -7,7 +7,7 @@ nav_order: 3
 ## Call for Sponsors
 ---
 
-ICSGET-2023 is inviting the sponsors to promote the events of conference. It will include the logo of organization in the ICSGET-2023 website and also invite to organize (online/offline) an industry talk or product demo during the conference in Vardhaman College of Engineering, Hyderabad, India.
+ICSGET-2024 is inviting the sponsors to promote the events of conference. It will include the logo of organization in the ICSGET-2024 website and also invite to organize (online/offline) an industry talk or product demo during the conference in Vardhaman College of Engineering, Hyderabad, India.
 
 ## Sponsors Registration
 

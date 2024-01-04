@@ -9,10 +9,10 @@ nav_order: 6
 
 ## Important Dates
 
-| Submission Deadline     | September 15, 2023|
-| Author Notification     | September 30, 2023|
-| Camera-Ready Submission | October 5, 2023|
-| Conference Dates        | November 17, 18, 2023|
+| Submission Deadline     | March 30, 2024|
+| Author Notification     | April 15, 2024|
+| Camera-Ready Submission | April 25, 2024|
+| Conference Dates        | May 24, 25, 2024|
 
 ## Submission Guidelines
 
