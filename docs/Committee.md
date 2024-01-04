@@ -18,17 +18,18 @@ Sri E. Prabhakar Reddy, Treasurer, Vardhaman College of Engineering, Hyderabad, 
 Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India<br>
 
 ### General Chair
+Sanjeevikumar Padmanabhan (Aarhus University, Denmark)<br>
 Yassine Maleh (Sultan Moulay Slimane University, Morocco)<br>
-Abdelkrim Haqiq (FST, Hassan 1st University, Settat, Morocco)<br>
-Loveleen Gaur (Amity University, India)<br>
-M. A. Jabbar (Vardhaman College of Engineering, India)<br>
-MD Asif (Vardhaman College of Engineering, India)<br>
+N. Karuppiah (Vardhaman College of Engineering, India)<br>
+S. Ravivarman (Vardhaman College of Engineering, India)<br>
+B. Praveen Kumar (Vardhaman College of Engineering, India)<br>
 
 ### Programme Chair
 Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)<br>
 Abdelkrim Haqiq (Hassan 1st University, FST-Settat, Morocco)<br>
 Ayush Goyal (Texas A & M Ville University KingsVilley, Texas)<br>
 Celestine Iwendi (University of Bolton, United Kingdom)<br>
+MD Asif (Vardhaman College of Engineering, India)<br>
 
 ### Steering Committee
 Celia Shahnaz (Bangladesh University of Engineering & Technology, Bangladesh)<br>
@@ -39,14 +40,8 @@ San Murugesan (Western Sydney University, Australia)<br>
 ### Publication Chair
 Shishir Kumar Shandilya (VIT Bhopal University, India)<br>
 Udit Chawla (University of Engineering & Management, India)<br>
-Mariya Ouaissa (ENSAM-Moulay Ismail University, Meknes, Morocco)<br>
-Hena Iqbal (Al Dar University College, UAE)<br>
-
-### Publicity Chair
-Shankru Guggari (Query Data Systems, India)<br>
-Sailesh Iyer (Rai University, India)<br>
-Parameshachari B D (GSSS Institute of Engg & Technology for Women, India)<br>
-Fariba Goodarzian (Universidad de Sevilla, Spain)<br>
+K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
+Patil Mounica (Vardhaman College of Engineering, India)<br>
 
 ### Technical Program Committee
 Akhtar Kalam (Victoria University, Melbourne, Australia)<br>
@@ -110,14 +105,8 @@ Anusuya Bhattacharyya (Vellore Institute of Technology, Vellore, India)<br>
 
 ### Workshop Chair
 Shawana Tabassum (University of Texas at Tyler)<br>
-N. Karuppiah (Vardhaman College of Engineering, India)<br>
 Amirrudin Kamsin (University of Malaya, Malaysia)<br>
-S. Ravivarman (Vardhaman College of Engineering, India)<br>
-
-### Special Session Chair
-Ana Maria Madureira (Institute of Engineering-Polytechnique of Porto, Portugal)<br>
-Hilal Arsalan (Izmir Bakircay University, Turkey)<br>
-K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
+T. Anuradha Devi (Vardhaman College of Engineering, India)<br>
 
 ### Organizing Committee
 Patience Usoro Usip (University of Uyo, Nigeria )<br>
