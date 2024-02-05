@@ -11,7 +11,7 @@ draft: false
 ### Speakers
 
 <p align="center">
-<img width="300" height="300" src="/images/speaker1.jpg"><br>
+{{< image src="images/speaker1.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 <b>Dr. Hassan Haes Alhelou</b><br>
 Monash University, Melbourne, Victoria, Australia<br>
 &nbsp;</p>
