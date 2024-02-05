@@ -4,7 +4,7 @@ title: "Speakers"
 meta_title: ""
 # meta description
 description: "Speakers - ICSGET 2024"
-image: "/images/banner2022.png"
+image: "/images/banner.png"
 # save as draft
 draft: false
 ---
