@@ -9,12 +9,11 @@ image: "/images/banner2022.png"
 draft: false
 ---
 
-## ICSGET 2022 
-{{< button label="ICSGET 2022" link="https://sravivarmanvce.github.io/icsget2022/" style="solid" >}}
+## ICSGET 2022 {{< button label="ICSGET 2022" link="https://sravivarmanvce.github.io/icsget2022/" style="solid" >}}
 
-### First Edition of ICSGET is published online and can be accessed at [River Publishers](https://www.riverpublishers.com/research_details.php?book_id=1042) 
+#### First Edition of ICSGET is published online and can be accessed at [River Publishers](https://www.riverpublishers.com/research_details.php?book_id=1042) 
 
-DOI: (https://doi.org/10.13052/rp-9788770229647)
+DOI: https://doi.org/10.13052/rp-9788770229647
 
 ### Gallery
 
