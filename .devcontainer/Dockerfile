@@ -1,14 +1,33 @@
-# [Choice] Debian OS version (use bullseye on local arm64/Apple Silicon): bullseye, buster
-ARG VARIANT=bullseye
-FROM mcr.microsoft.com/vscode/devcontainers/jekyll:0-${VARIANT}
+# Update the arg in docker-compose.yml or devcontainer.json to switch arg versions
+ARG NODE_VERSION=18
 
-# [Choice] Node.js version: none, lts/*, 16, 14, 12, 10
-ARG NODE_VERSION="none"
-RUN if [ "${NODE_VERSION}" != "none" ]; then su vscode -c "umask 0002 && . /usr/local/share/nvm/nvm.sh && nvm install ${NODE_VERSION} 2>&1"; fi
+# main image
+FROM mcr.microsoft.com/devcontainers/javascript-node:${NODE_VERSION}
 
-# [Optional] Uncomment this section to install additional OS packages.
-# RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
-#     && apt-get -y install --no-install-recommends <your-package-list-here>
+# Update the arg in docker-compose.yml or devcontainer.json to switch arg versions
+ARG GO_VERSION=latest
+ARG HUGO_VERSION=latest
 
-# [Optional] Uncomment this line to install global node packages.
-# RUN su vscode -c "source /usr/local/share/nvm/nvm.sh && npm install -g <your-package-here>" 2>&1
+# Download necessary tools
+RUN apt-get update && apt-get install -y \
+    ca-certificates openssl git curl && \
+    rm -rf /var/lib/apt/lists/* && \
+    # set architecture
+    case $(uname -m) in \
+    aarch64) \
+    export ARCH=arm64 ;; \
+    *) \
+    export ARCH=amd64 ;; \
+    esac && \
+    # install Hugo
+    wget -O hugo_extended_${HUGO_VERSION}.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-${ARCH}.tar.gz && \
+    tar xf hugo_extended_${HUGO_VERSION}.tar.gz && \
+    mv hugo /usr/bin/hugo && \
+    rm hugo_extended_${HUGO_VERSION}.tar.gz && \
+    # install Go
+    wget -O go${GO_VERSION}.linux-${ARCH}.tar.gz https://dl.google.com/go/go${GO_VERSION}.linux-${ARCH}.tar.gz && \
+    tar -C /usr/local -xzf go${GO_VERSION}.linux-${ARCH}.tar.gz && \
+    rm go${GO_VERSION}.linux-${ARCH}.tar.gz
+
+# Export Go path
+ENV PATH=$PATH:/usr/local/go/bin
