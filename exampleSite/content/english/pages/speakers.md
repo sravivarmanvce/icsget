@@ -8,6 +8,10 @@ image: "/images/banner.png"
 # save as draft
 draft: false
 ---
+
+{{< image src="images/bannerhorizon.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
+
 ### Speakers
 
 <p align="center">
