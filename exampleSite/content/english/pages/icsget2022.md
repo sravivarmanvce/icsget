@@ -14,6 +14,7 @@ draft: false
 
 ### First Edition of ICSGET is published online and can be accessed at [River Publishers](https://www.riverpublishers.com/research_details.php?book_id=1042) 
 
+DOI: (https://doi.org/10.13052/rp-9788770229647)
 
 ### Gallery
 
