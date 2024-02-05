@@ -12,6 +12,9 @@ draft: false
 ## ICSGET 2022 
 {{< button label="ICSGET 2022" link="https://sravivarmanvce.github.io/icsget2022/" style="solid" >}}
 
+### First Edition of ICSGET is published online and can be accessed at [River Publishers](https://www.riverpublishers.com/research_details.php?book_id=1042) 
+
+
 ### Gallery
 
 {{< gallery dir="images/gallery" class="" height="300" width="300" webp="true" command="Fit" option="" zoomable="true" >}}
