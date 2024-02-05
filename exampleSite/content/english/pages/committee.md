@@ -20,15 +20,16 @@ Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India
 #### General Chair
 Sanjeevikumar Padmanabhan (Aarhus University, Denmark)<br>
 Yassine Maleh (Sultan Moulay Slimane University, Morocco)<br>
+Mahdi Fathi (University of North Texas, USA)<br>
 N. Karuppiah (Vardhaman College of Engineering, India)<br>
-S. Ravivarman (Vardhaman College of Engineering, India)<br>
 B. Praveen Kumar (Vardhaman College of Engineering, India)<br>
 #### Programme Chair
 Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)<br>
 Abdelkrim Haqiq (Hassan 1st University, FST-Settat, Morocco)<br>
 Ayush Goyal (Texas A & M Ville University KingsVilley, Texas)<br>
 Celestine Iwendi (University of Bolton, United Kingdom)<br>
-MD Asif (Vardhaman College of Engineering, India)<br>
+Md. Asif (Vardhaman College of Engineering, India)<br>
+S. Ravivarman (Vardhaman College of Engineering, India)<br>
 #### Steering Committee
 Celia Shahnaz (Bangladesh University of Engineering & Technology, Bangladesh)<br>
 Hari Shankar Jain (Vardhaman College of Engineering, India)<br>
