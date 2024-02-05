@@ -9,7 +9,8 @@ image: "/images/banner2022.png"
 draft: false
 ---
 
-ICSGET 2022 [https://sravivarmanvce.github.io/icsget2022/]
+## ICSGET 2022 
+{{< button label="ICSGET 2022" link="https://sravivarmanvce.github.io/icsget2022/" style="solid" >}}
 
 ### Gallery
 
