@@ -16,7 +16,7 @@ draft: false
 Monash University, Melbourne, Victoria, Australia<br>
 &nbsp;</p>
 <p align="center">
-<img width="300" height="300" src="/images/speaker2.jpg"><br>
+{{< image src="images/speaker2.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 <b>Dr. Saad Motahhir</b><br>
 ENSA, Fez, Morocco<br>
 &nbsp;</p>
