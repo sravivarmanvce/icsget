@@ -19,10 +19,11 @@ Sri E. Prabhakar Reddy, Treasurer, Vardhaman College of Engineering, Hyderabad, 
 Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India
 #### General Chair
 Sanjeevikumar Padmanabhan (Aarhus University, Denmark)<br>
-Yassine Maleh (Sultan Moulay Slimane University, Morocco)<br>
-Mahdi Fathi (University of North Texas, USA)<br>
+Nnamdi Nwulu (University of Johannesburg, South Africa)<br>
 N. Karuppiah (Vardhaman College of Engineering, India)<br>
+S. Ravivarman (Vardhaman College of Engineering, India)<br>
 B. Praveen Kumar (Vardhaman College of Engineering, India)<br>
+K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
 #### Programme Chair
 Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)<br>
 Abdelkrim Haqiq (Hassan 1st University, FST-Settat, Morocco)<br>
