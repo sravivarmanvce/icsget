@@ -12,10 +12,10 @@ draft: false
 
 {{< tabs >}}
 {{< tab "Important Dates" >}}
-**Firm deadline:** March 15, 2024<br>
-**Author Notification:** April 20, 2024<br>
-**Camera-Ready Submission:** April 30, 2024<br>
-**Conference Date:** May 24, 25, 2024<br>
+**Firm deadline:** May 1, 2024<br>
+**Author Notification:** May 20, 2024<br>
+**Camera-Ready Submission:** May 30, 2024<br>
+**Conference Date:** June 14, 15, 2024<br>
 **Submission Link:** Easychair
 {{< /tab >}}
 {{< /tabs >}}
