@@ -40,7 +40,30 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 
 ## Account Details
 
-TBA
+<table border="1">
+<tbody>
+  <tr>
+    <td>Bank Name</td>
+    <td>Central Bank of India</td>
+  </tr>
+  <tr>
+    <td>Branch</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Account Number</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>IFSC Code</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MICR Code</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 
 {{< tabs >}}
