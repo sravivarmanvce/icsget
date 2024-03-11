@@ -10,6 +10,14 @@ draft: false
 ---
 {{< image src="images/bannerhorizon.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
+## Registration Fee
+
+|Type of Author	   |Indian Authors |Foreign Authors|
+|Faculty/Students  |₹ 7000/-       |100 USD|
+|Industry          |₹ 10000/-      |125 USD|
+
+Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using UPI (Google Pay, Phone Pe, etc.).
+
 {{< tabs >}}
 {{< tab "Important Dates" >}}
 **Firm deadline:** May 1, 2024<br>
