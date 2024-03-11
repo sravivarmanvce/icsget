@@ -50,7 +50,7 @@ Arunkumar P (Eindhoven University, Netherland)<br>
 B Chitti Babu (IIITD & M Kancheepuram, India)<br>
 Ch. Saibabu (JNT University Kakinada, India)<br>
 Chris Williams (School of Informatics University, Edinburgh)<br>
-D N Vishwakarma (Indian Institute Technology (BHU)<br>, Varanasi, India)<br>
+D N Vishwakarma (Indian Institute Technology (BHU), Varanasi, India)<br>
 Deepak Kumar (MNNIT, Allahabad, India)<br>
 Fahd Alghasham (Qassim University , Saudi Arabia)<br>
 Fernando Ruiz Pérez (Instituto Politécnico Nacional, Mexico)<br>

@@ -16,7 +16,7 @@ draft: false
 **Author Notification:** May 20, 2024<br>
 **Camera-Ready Submission:** May 30, 2024<br>
 **Conference Date:** June 14, 15, 2024<br>
-**Submission Link:** Easychair
+**Submission Link:** https://easychair.org/conferences/?conf=icsget2024
 {{< /tab >}}
 {{< /tabs >}}
 

@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Submit Paper"
-    link: "https://easychair.org"
+    link: "https://easychair.org/conferences/?conf=icsget2024"
 
 # Features
 features:
@@ -30,7 +30,7 @@ features:
     button:
       enable: true
       label: "Submit Paper"
-      link: "https://easychair.org/"
+      link: "https://easychair.org/conferences/?conf=icsget2024"
 
   - title: "Conference Proceedings"
     image: "/images/e3s.png"
