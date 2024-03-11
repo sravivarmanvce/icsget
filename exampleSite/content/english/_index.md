@@ -34,9 +34,9 @@ features:
 
   - title: "Conference Proceedings"
     image: "/images/e3s.png"
-    content: "All accepted and registered (preseneted) papers is planned to publish in the proceedings of **E3S Web of Conferences (final approval pending)**."
+    content: "All accepted and registered (preseneted) papers is planned to publish in the proceedings of **E3S Web of Conferences**."
     button:
       enable: true
       label: "E3S Web of Conferences"
-      link: "https://www.e3s-conferences.org/"
+      link: "https://www.webofconferences.org/e3s-web-of-conferences-forthcoming-conferences"
 ---
