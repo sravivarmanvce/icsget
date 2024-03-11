@@ -12,9 +12,28 @@ draft: false
 
 ## Registration Fee
 
-|Type of Author	   |Indian Authors |Foreign Authors|
-|Faculty/Students  |₹ 7000/-       |100 USD|
-|Industry          |₹ 10000/-      |125 USD|
+<table border="1">
+<thead>
+  <tr>
+    <th>Type of Author</th>
+    <th>Indian Authors</th>
+	<th>Foreign Authors</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Faculty/Students</td>
+    <td>₹ 7000/-</td>
+	<td>100 USD</td>
+  </tr>
+  <tr>
+    <td>Industry</td>
+    <td>₹ 10000/-</td>
+	<td>125 USD</td>
+  </tr>
+</tbody>
+</table>
+
 
 Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using UPI (Google Pay, Phone Pe, etc.).
 
