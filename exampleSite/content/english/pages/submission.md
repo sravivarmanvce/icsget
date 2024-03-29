@@ -35,7 +35,7 @@ Also, note that the (ICSGET) team takes care of plagiarism (even self-plagiarism
 We recommend authors use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.
 {{< image src="images/e3s.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
-MS Word Template link: https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx
+Template link: [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)
 
 ## Submission guidelines
 Three different types of submissions are expected: 1) regular paper, 2) invited paper, and 3) position paper.
