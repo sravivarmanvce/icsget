@@ -28,8 +28,8 @@ draft: false
   </tr>
   <tr>
     <td>Industry</td>
-    <td>₹ 10000/-</td>
-	<td>125 USD</td>
+    <td>₹ 7000/-</td>
+	<td>100 USD</td>
   </tr>
 </tbody>
 </table>
@@ -65,6 +65,10 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 </tbody>
 </table>
 
+## Template and Submission
+
+> #### **Template:** [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)<br>
+> #### **Submission Link:** https://easychair.org/conferences/?conf=icsget2024
 
 {{< tabs >}}
 {{< tab "Important Dates" >}}
@@ -72,6 +76,5 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 **Author Notification:** May 20, 2024<br>
 **Camera-Ready Submission:** May 30, 2024<br>
 **Conference Date:** June 14, 15, 2024<br>
-**Submission Link:** https://easychair.org/conferences/?conf=icsget2024
 {{< /tab >}}
 {{< /tabs >}}
