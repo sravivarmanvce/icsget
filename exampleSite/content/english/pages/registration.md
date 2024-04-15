@@ -48,19 +48,19 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
   </tr>
   <tr>
     <td>Branch</td>
-    <td></td>
+    <td>Gudimalkapuram</td>
   </tr>
   <tr>
     <td>Account Number</td>
-    <td></td>
+    <td>3559461487</td>
   </tr>
   <tr>
     <td>IFSC Code</td>
-    <td></td>
+    <td>CBIN0283080</td>
   </tr>
   <tr>
     <td>MICR Code</td>
-    <td></td>
+    <td>500016022</td>
   </tr>
 </tbody>
 </table>
