@@ -30,7 +30,7 @@ features:
     button:
       enable: true
       label: "Submit Paper"
-      link: "https://easychair.org/conferences/?conf=icsget2024"
+      link: "icsget@vardhaman.org"
 
   - title: "Conference Proceedings"
     image: "/images/e3s.png"
