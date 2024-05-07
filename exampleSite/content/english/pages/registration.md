@@ -68,11 +68,11 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 ## Template and Submission
 
 > #### **Template:** [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)<br>
-> #### **Submission Link:** https://easychair.org/conferences/?conf=icsget2024
+> #### **Submission Link:** Submission Closed
 
 {{< tabs >}}
 {{< tab "Important Dates" >}}
-**Firm deadline:** ~~May 1, 2024~~<br>
+**Firm deadline:** ~~May 1, 2024~~(Submission Closed)<br>
 **Author Notification:** May 20, 2024<br>
 **Camera-Ready Submission:** May 30, 2024<br>
 **Conference Date:** June 14, 15, 2024<br>

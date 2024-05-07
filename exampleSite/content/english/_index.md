@@ -6,8 +6,8 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Submit Paper"
-    link: "https://easychair.org/conferences/?conf=icsget2024"
+    label: "Submission Closed"
+    link: "#"
 
 # Features
 features:
@@ -23,14 +23,14 @@ features:
     image: "/images/dates.png"
     content: "Important Dates"
     bulletpoints:
-      - "Firm deadline: ~~May 01, 2024~~"
+      - "Firm deadline: ~~May 01, 2024~~(Submission Closed)"
       - "Author Notification: May 20, 2024"
       - "Camera-Ready Submission: May 30, 2024"
       - "Conference Date: June 14, 15, 2024"
     button:
       enable: true
-      label: "Submit Paper"
-      link: "https://easychair.org/conferences/?conf=icsget2024"
+      label: "Submission Closed"
+      link: "#"
 
   - title: "Conference Proceedings"
     image: "/images/e3s.png"
