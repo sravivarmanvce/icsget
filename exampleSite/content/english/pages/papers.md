@@ -13,7 +13,7 @@ draft: false
 ## Template and Submission
 
 > #### **Template:** [MS Word](https://github.com/sravivarmanvce/icsget/raw/main/ICSGET_2024_WOC_2col_Template.docx)<br>
-> #### **Send your paper to:** icsget@vardhaman.org
+> #### **Submission Link:** https://easychair.org/conferences/?conf=icsget2024
 
 
 The ICSGET-2024 is a platform both for industry and academia to present and discuss the innovations, trends, and concerns as well as the challenges encountered and solutions. We invite researchers, professionals, and industry experts to to submit their original, unpublished research contributions to these tracks that are not currently under consideration by another conference/journal, and be part of a collaborative effort to shape a sustainable and eco-conscious energy future.

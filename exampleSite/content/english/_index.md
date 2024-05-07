@@ -6,8 +6,8 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Send Paper to icsget@vardhaman.org"
-    link: "#"
+    label: "Submit Paper"
+    link: "https://easychair.org/conferences/?conf=icsget2024"
 
 # Features
 features:
@@ -29,8 +29,8 @@ features:
       - "Conference Date: June 14, 15, 2024"
     button:
       enable: true
-      label: "Send Paper to icsget@vardhaman.org"
-      link: "#"
+      label: "Submit Paper"
+      link: "https://easychair.org/conferences/?conf=icsget2024"
 
   - title: "Conference Proceedings"
     image: "/images/e3s.png"
