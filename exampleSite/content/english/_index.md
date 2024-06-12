@@ -15,8 +15,8 @@ features:
     image: "/images/dates.png"
     content: " "
     bulletpoints:
-      - "[Offline Schedule] (https://raw.githubusercontent.com/sravivarmanvce/icsget/main/ICSGET%202024%20Schedule%20Online%20-%20Link.pdf)"
-      - "[Online Schedule] (https://raw.githubusercontent.com/sravivarmanvce/icsget/main/ICSGET%202024%20Schedule%20Offline.pdf)"
+      - "Offline Schedule --> https://raw.githubusercontent.com/sravivarmanvce/icsget/main/ICSGET%202024%20Schedule%20Online%20-%20Link.pdf"
+      - "Online Schedule --> https://raw.githubusercontent.com/sravivarmanvce/icsget/main/ICSGET%202024%20Schedule%20Offline.pdf"
     button:
       enable: false
       label: ""
