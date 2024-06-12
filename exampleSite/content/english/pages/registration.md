@@ -43,6 +43,11 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 <table border="1">
 <tbody>
   <tr>
+    <td>Account Name</td>
+    <td>Vardhaman College of Engineering</td>
+  </tr>
+  <tr>
+  <tr>
     <td>Bank Name</td>
     <td>Central Bank of India</td>
   </tr>
