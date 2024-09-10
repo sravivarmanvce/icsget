@@ -1,7 +1,7 @@
 title: "ICSGET 2025"
 email: icsget@vardhaman.org
 timezone: IST
-baseurl: "/temp"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
