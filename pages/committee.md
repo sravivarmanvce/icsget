@@ -13,7 +13,7 @@ Sri E. Prabhakar Reddy, Treasurer, Vardhaman College of Engineering, Hyderabad, 
 #### Patron
 Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India
 #### General Chair
-Tomonobu Senjyu (Univeristy of the Ryukyus, Japan)<br>
+Tomonobu Senjyu (University of the Ryukyus, Japan)<br>
 Celestine Iwendi (University of Bolton, United Kingdom)<br>
 N. Karuppiah (Vardhaman College of Engineering, India)<br>
 S. Ravivarman (Vardhaman College of Engineering, India)<br>
@@ -24,7 +24,7 @@ B. Praveen Kumar (Universiti Kebangsaan, Malaysia)<br>
 Md. Asif (Vardhaman College of Engineering, India)<br>
 Patil Mounica (Vardhaman College of Engineering, India)<br>
 #### Steering Committee
-Parvez Mahmud (University of Technology Sydney,Australia)<br>
+Parvez Mahmud (University of Technology Sydney, Australia)<br>
 Hari Shankar Jain (Vardhaman College of Engineering, India)<br>
 Puneet Kumar Mishra (U R Rao Satellite Centre, India)<br>
 Mohammad Faridun Naim Tajddin (Universiti Malaysia Perlis, Malaysia)<br>
@@ -44,10 +44,10 @@ Ch. Saibabu (JNT University Kakinada, India)<br>
 Chris Williams (School of Informatics University, Edinburgh)<br>
 D N Vishwakarma (Indian Institute Technology (BHU), Varanasi, India)<br>
 Deepak Kumar (MNNIT, Allahabad, India)<br>
-Fahd Alghasham (Qassim University , Saudi Arabia)<br>
+Fahd Alghasham (Qassim University, Saudi Arabia)<br>
 Fernando Ruiz Pérez (Instituto Politécnico Nacional, Mexico)<br>
 G M Shafiullah (Murdoch University, Australia)<br>
-Giacomo Oliveri (Presso Università , Trento, Italy)<br>
+Giacomo Oliveri (Presso Università, Trento, Italy)<br>
 Gnanaseelan Natarajan (CICATA Altamira IPN, Mexico)<br>
 Hassan Haes Alhelou (Smart Energy Systems Lab., Ireland)<br>
 I Suresh (National Institute of Technology, Warangal, India)<br>
@@ -61,7 +61,7 @@ Mahajan Sagar Bhaskar (Prince Sultan University, Saudi Arabia)<br>
 Manish Kumar (IFE Kjeller, Norway)<br>
 Meshaal Alyahya(King Abdulaziz City for Science and Technology, Saudi Arabia)<br>
 Mohan Lal Agarwal (Indo Gulf Management, UAE)<br>
-N Manoj Kumar (University of Hong kong, China)<br>
+N Manoj Kumar (University of Hong Kong, China)<br>
 NP Selvam (National Institute of Technology, Trichy, India)<br>
 Naveen (Hero Electric Vehicles Pvt. Ltd, India)<br>
 Nicolaos Antonio Cutululis (Technical University, Denmark)<br>
@@ -80,7 +80,7 @@ S Rajasekar (Wartsila energy, Singapore)<br>
 S Umasankar (Prince Sultan University, Riyadh, Saudi Arabia)<br>
 S. Kumaravel (National Institute of Technology, Calicut, India)<br>
 S. Rajalingam (Sunyani Technical University, Ghana)<br>
-Sergio Canazza (University of Padova , Padova)<br>
+Sergio Canazza (University of Padova, Padova)<br>
 Shitharth S (Kebri Dehar University, Ethiopia)<br>
 Suresh Mikkili (National Institute of Technology, Goa, India)<br>
 Tobias Geyer (ABB Medium-Voltage Drives, Switzerland)<br>
@@ -95,8 +95,8 @@ Amirrudin Kamsin (University of Malaya, Malaysia)<br>
 N. Srinivas (Vardhaman College of Engineering, India)<br>
 A. Ananda Kumar (Vardhaman College of Engineering, India)<br>
 #### Organizing Committee
-Belqasem Aljafari (Najran Univeristy, Saudi Arabia) <br>
-Victor Ayodeli (Unisiti Teknologi Petronas, Malaysia) <br>
+Belqasem Aljafari (Najran University, Saudi Arabia) <br>
+Victor Ayodeli (Universiti Teknologi Petronas, Malaysia) <br>
 N. Karuppiah (Vardhaman College of Engineering, India)<br>
 S. Ravivarman (Vardhaman College of Engineering, India)<br>
 K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
