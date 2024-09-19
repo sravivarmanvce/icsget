@@ -8,8 +8,7 @@ We recommend authors to use WORD template. It is planned to publish the proceedi
 > ##### **Template:** [MS Word](../assets/ICSGET_2025_Template_woc_1col.docx)  
 > ##### **Submission Link:** [Microsoft CMT](https://cmt3.research.microsoft.com)
 
-The authors will need to register their email with CMT to submit paper to ICSGET 2025. Here is a link how to create a CMT account:
-(https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
+The authors will need to register their email with CMT to submit paper to ICSGET 2025. Here is a link how to create a [CMT account: https://cmt3.research.microsoft.com/docs/help/general/account-creation.html](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
 ## Paper Submission & Review Policy
 Authors are advised to submit their original and unpublished work (related to the conference theme).
