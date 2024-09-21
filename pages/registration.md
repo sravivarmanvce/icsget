@@ -14,12 +14,12 @@ image: assets/images/banner-alt.png
   <tr>
     <td> Faculty/Students </td>
     <td> Rs. 9000/- </td>
-	<td> 125 USD </td>
+	<td> 150 USD </td>
   </tr>
   <tr>
     <td> Industry </td>
     <td> Rs. 9000/- </td>
-	<td> 125 USD </td>
+	<td> 150 USD </td>
   </tr>
 </table>
 
