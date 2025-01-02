@@ -28,6 +28,7 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 
 ## Account Details
 
+# Registration Completed
 
 <!-- | Account Name | : | Vardhaman College of Engineering |
 | ------------ | ---- | ----------------------------- |
