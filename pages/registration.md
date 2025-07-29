@@ -26,7 +26,7 @@ image: assets/images/banner-alt.png
 Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using UPI (Google Pay, Phone Pe, etc.).
 
 
-## Account Details
+<!--## Account Details
 
 # Registration Completed
 
