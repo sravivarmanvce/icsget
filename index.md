@@ -10,9 +10,9 @@ background: '/img/bg-index.jpg'
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
-      <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2025</h1-->
-      <h2 class="mb-4" style="color:#ffffff">3<sup>rd</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2025)</h2>
-	  <h3 class="mb-4" style="color:#ffffff">24 - 25 January 2025</h3>
+      <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2026</h1-->
+      <h2 class="mb-4" style="color:#ffffff">4<sup>th</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2026)</h2>
+	  <h3 class="mb-4" style="color:#ffffff">16 - 17 March 2026</h3>
 	  <h4 class="mb-4" style="color:#ffffff">Organized by Department of EEE, Vardhaman College of Engineering</h4>
       <a href="{{site.baseurl}}/submission" class="btn btn-dark text-white px-5 btn-lg">Submit (Microsoft CMT)</a>
     </div>
@@ -24,12 +24,12 @@ background: '/img/bg-index.jpg'
 {% endif %}
 
 &nbsp;
-## ICSGET 2025
-<p align="justify">The 3<sup>rd</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2025) will bring together a diverse group of experts, researchers, and industry professionals, passionate about advancing sustainability. The conference will explore into the latest developments in sustainable technologies in the fields such as smart grids and microgrids, focusing on enhancing grid resilience, cybersecurity, and power quality. New breakthroughs in battery technologies, energy storage, and charging infrastructure will be explored, along with the seamless integration of renewable energy and electric vehicles.<br>  
+## ICSGET 2026
+<p align="justify">The 4<sup>th</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2026) will bring together a diverse group of experts, researchers, and industry professionals, passionate about advancing sustainability. The conference will explore into the latest developments in sustainable technologies in the fields such as smart grids and microgrids, focusing on enhancing grid resilience, cybersecurity, and power quality. New breakthroughs in battery technologies, energy storage, and charging infrastructure will be explored, along with the seamless integration of renewable energy and electric vehicles.<br>  
 
 Showcasing innovations in smart electronics, including energy-efficient designs and wearable technology for health and environmental monitoring, will be a key highlight. Discussions will cover green manufacturing practices and the role of AI in creating more sustainable electronics. The conference will also feature cutting-edge materials for renewable energy and green construction, as well as innovative use of nanomaterials for environmental cleanup and healthcare applications.<br>
 
-Additionally, the transformative impact of nanotechnology on fields such as solar energy, chemical processes, environmental safety, and health diagnostics will be examined. ICSGET 2025 aims to foster connections, spark new ideas, and share knowledge to address global challenges and promote a greener, more resilient future.
+Additionally, the transformative impact of nanotechnology on fields such as solar energy, chemical processes, environmental safety, and health diagnostics will be examined. ICSGET 2026 aims to foster connections, spark new ideas, and share knowledge to address global challenges and promote a greener, more resilient future.
 </p>
 &nbsp;
 
