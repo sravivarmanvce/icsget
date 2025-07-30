@@ -12,7 +12,7 @@ background: '/img/bg-index.jpg'
     <div class="col-md-6">
       <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2026</h1-->
       <h2 class="mb-4" style="color:#ffffff">4<sup>th</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2026)</h2>
-	  <h3 class="mb-4" style="color:#ffffff">16 - 17 March 2026</h3>
+	  <h3 class="mb-4" style="color:#ffffff">13 - 14 March 2026</h3>
 	  <h4 class="mb-4" style="color:#ffffff">Organized by Department of EEE, Vardhaman College of Engineering</h4>
       <a href="{{site.baseurl}}/submission" class="btn btn-dark text-white px-5 btn-lg">Submit (Microsoft CMT)</a>
     </div>
