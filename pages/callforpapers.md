@@ -35,12 +35,12 @@ The ICSGET-2024 is a platform both for industry and academia to present and disc
 - Recyclable and Biodegradable Materials
 - Nanomaterials for Therapeutics and Diagnostics
 
-**Track 5: Nanotechnology Innovations in Energy, Environment, and Healthcare**
-- Nanotechnology for Solar Energy Harvesting
-- Nanocatalysts for Sustainable Chemical Processes
-- Environmental Impact and Safety of Nanomaterials
-- Nanostructured Materials for Advanced Health Diagnostics
-- Nanotechnology for Thermal Management
+**Track 5: AI and Machine Learning Innovations in Energy, Environment, and Healthcare**
+- AI and ML Applications in Smart Energy Systems
+- Intelligent Environmental Monitoring and Sustainability Solutions
+- Machine Learning in Healthcare and Biomedical Engineering
+- Data-Driven Decision Support Systems and Optimization Models
+- Ethical AI, Privacy, and Responsible Innovation in Critical Sectors
 
 Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (presented) papers is planned to publish in the proceedings of **"E3S Web of Conferences”**.
 
