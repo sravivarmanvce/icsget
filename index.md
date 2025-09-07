@@ -11,7 +11,7 @@ background: '/img/bg-index.jpg'
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
       <!--h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">ICSGET 2026</h1-->
-      <h2 class="mb-4" style="color:#ffffff">4<sup>th</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2026)</h2>
+      <h2 class="mb-4" style="color:#ffffff">4<sup>th</sup> International Conference on Smart Grids and Green Energy Technologies (ICSGET 2026)</h2>
 	  <h3 class="mb-4" style="color:#ffffff">13 - 14 March 2026</h3>
 	  <h4 class="mb-4" style="color:#ffffff">Organized by Department of EEE, Vardhaman College of Engineering</h4>
       <a href="{{site.baseurl}}/submission" class="btn btn-dark text-white px-5 btn-lg">Submit (Microsoft CMT)</a>
@@ -25,7 +25,7 @@ background: '/img/bg-index.jpg'
 
 &nbsp;
 ## ICSGET 2026
-<p align="justify">The 4<sup>th</sup> International Conference on Sustainable Green Energy Technologies (ICSGET 2026) will bring together a diverse group of experts, researchers, and industry professionals, passionate about advancing sustainability. The conference will explore into the latest developments in sustainable technologies in the fields such as smart grids and microgrids, focusing on enhancing grid resilience, cybersecurity, and power quality. New breakthroughs in battery technologies, energy storage, and charging infrastructure will be explored, along with the seamless integration of renewable energy and electric vehicles.<br>  
+<p align="justify">The 4<sup>th</sup> International Conference on International Conference on Smart Grids and Green Energy Technologies (ICSGET 2026) will bring together a diverse group of experts, researchers, and industry professionals, passionate about advancing sustainability. The conference will explore into the latest developments in sustainable technologies in the fields such as smart grids and microgrids, focusing on enhancing grid resilience, cybersecurity, and power quality. New breakthroughs in battery technologies, energy storage, and charging infrastructure will be explored, along with the seamless integration of renewable energy and electric vehicles.<br>  
 
 Showcasing innovations in smart electronics, including energy-efficient designs and wearable technology for health and environmental monitoring, will be a key highlight. Discussions will cover green manufacturing practices and the role of AI in creating more sustainable electronics. The conference will also feature cutting-edge materials for renewable energy and green construction, as well as innovative use of nanomaterials for environmental cleanup and healthcare applications.<br>
 
@@ -42,10 +42,10 @@ Additionally, the transformative impact of nanotechnology on fields such as sola
 	<div class="row justify-content-between">
 		<div class="col-lg-6 pt-5 pt-lg-0">
 			<p></p>
-			<p align="justify">All accepted and registered (presented) papers are planned to publish in the proceedings of E3S Web of Conferences (EDP Sciences).</p>
+			<p align="justify">All accepted and registered (presented) papers are planned to publish in the proceedings of EPJ Web of Conferences.</p>
 		</div>
 		<div class="col-lg-6 d-flex align-items-center justify-content-center about-img">
-			<img alt="EDP Sciences" src="assets/images/e3s.png">
+			<img alt="EPJ Web of Conferences" src="assets/images/epj.png">
 		</div>
 
 	</div>

@@ -110,4 +110,3 @@ Fatima Unnisa (Vardhaman College of Engineering, India)<br>
 K. Haleema (Vardhaman College of Engineering, India)<br>
 S. Vinod Reddy (Vardhaman College of Engineering, India)<br>
 D. Revathi (Vardhaman College of Engineering, India)<br>
-Shaik Rahimpasha (Vardhaman College of Engineering, India)<br>

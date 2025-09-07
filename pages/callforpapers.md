@@ -5,7 +5,7 @@ permalink: "/callforpapers/"
 image: assets/images/banner-alt.png
 ---
 
-The ICSGET-2024 is a platform both for industry and academia to present and discuss the innovations, trends, and concerns as well as the challenges encountered and solutions. We invite researchers, professionals, and industry experts to to submit their original, unpublished research contributions to these tracks that are not currently under consideration by another conference/journal, and be part of a collaborative effort to shape a sustainable and eco-conscious energy future.
+The ICSGET-2026 is a platform both for industry and academia to present and discuss the innovations, trends, and concerns as well as the challenges encountered and solutions. We invite researchers, professionals, and industry experts to to submit their original, unpublished research contributions to these tracks that are not currently under consideration by another conference/journal, and be part of a collaborative effort to shape a sustainable and eco-conscious energy future.
 
 **Track 1: Innovative Technologies for Green Energy and Electric Mobility**
 - Advanced Battery Technologies and Energy Storage Solutions
@@ -42,6 +42,6 @@ The ICSGET-2024 is a platform both for industry and academia to present and disc
 - Data-Driven Decision Support Systems and Optimization Models
 - Ethical AI, Privacy, and Responsible Innovation in Critical Sectors
 
-Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (presented) papers is planned to publish in the proceedings of **"E3S Web of Conferences”**.
+Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (presented) papers is planned to publish in the proceedings of **"EPJ Web of Conferences”**.
 
-![E3S Web of Conferences](../assets/images/e3swoc.png "E3S Web of Conferences") ![EDP Sciences](../assets/images/e3s.png "EDP Sciences")
+![EPJ Web of Conferences](../assets/images/e3swoc.png "EPJ Web of Conferences")

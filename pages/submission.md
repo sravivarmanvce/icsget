@@ -4,11 +4,11 @@ title: Submission
 permalink: "/submission/"
 image: assets/images/banner-alt.png
 ---
-We recommend authors to use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.  
+We recommend authors to use WORD template. It is planned to publish the proceedings with **"EPJ Web of Conferences”**.  
 > ##### **Template:** [MS Word](../assets/ICSGET_2025_Template_woc_1col.docx)  
 > ##### **Submission Link:** [Microsoft CMT](https://cmt3.research.microsoft.com/ICSGET2025)
 
-The authors will need to register their email with CMT to submit paper to ICSGET 2025. Here is a link how to create a [CMT account: https://cmt3.research.microsoft.com/docs/help/general/account-creation.html](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
+The authors will need to register their email with CMT to submit paper to ICSGET 2026. Here is a link how to create a [CMT account: https://cmt3.research.microsoft.com/docs/help/general/account-creation.html](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
 ## Paper Submission & Review Policy
 Authors are advised to submit their original and unpublished work (related to the conference theme).
@@ -26,7 +26,7 @@ Invited paper (8 - 15 pages): Besides regular submissions, well-known research s
 
 Position paper (6 - 8 pages): We are also accepting the position papers for poster presentation and scientific discussion during the event, from early-career research scientists, MPhil, MTech and BTech students. This brings an opportunity for them to meet established research scientists/professors. Therefore, the (ICSGET) team strongly suggests participating.
 
-In general, such position papers should portray a short report of work in progress or an arguable opinion about facts, methods, procedures, or scientific research results. These papers can also be published in E3s Web of Conferences.
+In general, such position papers should portray a short report of work in progress or an arguable opinion about facts, methods, procedures, or scientific research results. These papers can also be published in EPJ Web of Conferences.
 
 {{< notice "warning" >}}
 ### Important Note
