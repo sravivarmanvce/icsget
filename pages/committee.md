@@ -104,9 +104,10 @@ K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
 B. Raja Gopal Reddy (Vardhaman College of Engineering, India)<br>
 A. Ramakrishna (Vardhaman College of Engineering, India)<br>
 B. Mohan (Vardhaman College of Engineering, India)<br>
-K. C. Archana (Vardhaman College of Engineering, India)<br>
 G. Indira Rani (Vardhaman College of Engineering, India)<br>
 Fatima Unnisa (Vardhaman College of Engineering, India)<br>
 K. Haleema (Vardhaman College of Engineering, India)<br>
 S. Vinod Reddy (Vardhaman College of Engineering, India)<br>
 D. Revathi (Vardhaman College of Engineering, India)<br>
+Bandi Balakrishna (Vardhaman College of Engineering, India)<br>
+Gouthami Challa  (Vardhaman College of Engineering, India)<br>
