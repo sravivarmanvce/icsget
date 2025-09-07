@@ -44,4 +44,4 @@ The ICSGET-2026 is a platform both for industry and academia to present and disc
 
 Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (presented) papers is planned to publish in the proceedings of **"EPJ Web of Conferences”**.
 
-![EPJ Web of Conferences](../assets/images/e3swoc.png "EPJ Web of Conferences")
+![EPJ Web of Conferences](../assets/images/epj.png "EPJ Web of Conferences")
