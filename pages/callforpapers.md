@@ -42,6 +42,6 @@ The ICSGET-2026 is a platform both for industry and academia to present and disc
 - Data-Driven Decision Support Systems and Optimization Models
 - Ethical AI, Privacy, and Responsible Innovation in Critical Sectors
 
-Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (presented) papers is planned to publish in the proceedings of **"EPJ Web of Conferences”**.
+Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (presented) papers is planned to publish in the proceedings of **"E3S Web of Conferences”**.
 
-![EPJ Web of Conferences](../assets/images/epj.png "EPJ Web of Conferences")
+![E3S Web of Conferences](../assets/images/e3s.png "E3S Web of Conferences")

@@ -29,7 +29,7 @@ Invited paper (8 - 15 pages): Besides regular submissions, well-known research s
 
 Position paper (6 - 8 pages): We are also accepting the position papers for poster presentation and scientific discussion during the event, from early-career research scientists, MPhil, MTech and BTech students. This brings an opportunity for them to meet established research scientists/professors. Therefore, the (ICSGET) team strongly suggests participating.
 
-In general, such position papers should portray a short report of work in progress or an arguable opinion about facts, methods, procedures, or scientific research results. These papers can also be published in EPJ Web of Conferences.
+In general, such position papers should portray a short report of work in progress or an arguable opinion about facts, methods, procedures, or scientific research results. These papers can also be published in E3S Web of Conferences.
 
 {{< notice "warning" >}}
 ### Important Note
