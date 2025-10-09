@@ -6,7 +6,10 @@ image: assets/images/banner-alt.png
 ---
 We recommend authors to use WORD template. It is planned to publish the proceedings with **"EPJ Web of Conferences”**.  
 > ##### **Template:** [MS Word](../assets/ICSGET_2025_Template_woc_1col.docx)  
-> ##### **Submission Link:** [Microsoft CMT](https://cmt3.research.microsoft.com/ICSGET2025)
+> ##### **Submission Link:** [Microsoft CMT](https://cmt3.research.microsoft.com/ICSGET2026)
+
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
 The authors will need to register their email with CMT to submit paper to ICSGET 2026. Here is a link how to create a [CMT account: https://cmt3.research.microsoft.com/docs/help/general/account-creation.html](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
