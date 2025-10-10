@@ -14,7 +14,7 @@ Sri E. Prabhakar Reddy, Treasurer, Vardhaman College of Engineering, Hyderabad, 
 Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India
 #### General Chair
 Tomonobu Senjyu (University of the Ryukyus, Japan)<br>
-Celestine Iwendi (University of Bolton, United Kingdom)<br>
+Muhammad Ammirrul Atiqi (Universiti Kebangsaan Malaysia, Malaysia)<br>
 N. Karuppiah (Vardhaman College of Engineering, India)<br>
 S. Ravivarman (Vardhaman College of Engineering, India)<br>
 K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
