@@ -67,4 +67,8 @@ Additionally, the transformative impact of nanotechnology on fields such as sola
 		</div>
 	</div>
 </div>
-<img alt="Vardhaman College of Engineering" src="assets/images/vce.png">
+<div class="container">
+	<div class="row justify-content-between">
+	<img alt="Vardhaman College of Engineering" src="assets/images/ICSGET_2026_Brochure_1.png">
+</div>
+</div>
