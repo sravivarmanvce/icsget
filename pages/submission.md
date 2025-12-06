@@ -20,6 +20,8 @@ Authors are requested to follow these guidelines before submitting their papers:
 9. Each paper must include a minimum of **15 references**.  
 10. Only **Scopus-indexed papers** should be cited in the references.  
 11. **Self-citations are not allowed**. Papers containing self-citations will be rejected.  
+12. All submitted manuscripts **must have a similarity index of less than 20%**, excluding references. Papers exceeding this limit will be desk-rejected.
+13. The use of AI-generated text, figures, tables, or code is strictly prohibited. Authors must ensure **0% AI-generated content** in their manuscripts.
 
 > Authors not following these guidelines may face desk rejection before review.
 
