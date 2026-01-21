@@ -12,7 +12,7 @@ Professor and Head, Department of EEE, VCE
 Mobile: +91 97518 33346
 
 **Dr. S. Ravivarman**  
-Professor, Department of EEE, EEE  
+Professor, Department of EEE, VCE  
 Mobile: +91 99942 77431
 
 **Dr. K. Muruga Perumal**  
