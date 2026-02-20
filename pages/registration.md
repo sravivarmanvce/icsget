@@ -33,8 +33,8 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 <!-- | Account Name | : | Vardhaman College of Engineering |
 | ------------ | ---- | ----------------------------- |
 | Bank Name | : | Central Bank of India |
-| Branch | : | Gudimalkapuram |
-| Account Number | : | 3559461487 |
-| IFSC Code | : | CBIN0283080 |
+| Branch | : | Shamshabad Branch (03538) |
+| Account Number | : | 1948107542 |
+| IFSC Code | : | CBIN0283538 |
 | MICR Code | : | 500016022 |
 -->
