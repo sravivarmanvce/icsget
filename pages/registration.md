@@ -23,18 +23,23 @@ image: assets/images/banner-alt.png
   </tr>
 </table>
 
+## Registration Form
+
+Please fill out the registration form using the link below:
+
+**[Register Now](https://forms.gle/nY5wPb7oyT59EcDg7)**
+
+**Important:** After making your payment, you will need to upload a payment receipt (screenshot, PDF, etc.) in the registration form to complete your registration.
+
 Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using UPI (Google Pay, Phone Pe, etc.).
 
 
-<!--## Account Details
+## Account Details
 
-# Registration Completed
-
-<!-- | Account Name | : | Vardhaman College of Engineering |
+| Account Name | : | Vardhaman College of Engineering |
 | ------------ | ---- | ----------------------------- |
 | Bank Name | : | Central Bank of India |
 | Branch | : | Shamshabad Branch (03538) |
 | Account Number | : | 1948107542 |
 | IFSC Code | : | CBIN0283538 |
 | MICR Code | : | 500016022 |
--->
