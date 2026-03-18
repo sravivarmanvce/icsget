@@ -67,4 +67,3 @@ Additionally, the transformative impact of nanotechnology on fields such as sola
 		</div>
 	</div>
 </div>
-</div>
