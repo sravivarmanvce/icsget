@@ -27,8 +27,8 @@ Authors are requested to follow these guidelines before submitting their papers:
 
 > Authors not following these guidelines may face desk rejection before review.
 
-We recommend authors to use WORD template. It is planned to publish the proceedings with **"E3S Web of Conferences”**.  
-> ##### **Template:** [MS Word](../assets/ICSGET_2025_Template_woc_1col.docx)  
+We recommend authors to use WORD template. It is planned to publish the proceedings  with Springer in their Communications in Computer and Information Science series (final approval pending).  
+> ##### **Template:** [MS Word](#)  
 > ##### **Submission Link:** [Microsoft CMT](https://cmt3.research.microsoft.com/ICSGET2026)
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.

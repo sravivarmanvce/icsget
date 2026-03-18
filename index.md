@@ -42,10 +42,10 @@ Additionally, the transformative impact of nanotechnology on fields such as sola
 	<div class="row justify-content-between">
 		<div class="col-lg-6 pt-5 pt-lg-0">
 			<p></p>
-			<p align="justify">All accepted and registered (presented) papers are planned to publish in the proceedings of E3S Web of Conferences.</p>
+			<p align="justify">It is planned to publish the proceedings  with Springer in their Communications in Computer and Information Science series (final approval pending)</p>
 		</div>
 		<div class="col-lg-6 d-flex align-items-center justify-content-center about-img">
-			<img alt="E3S Web of Conferences" src="assets/images/e3s.png">
+			<img alt="Springer - Communications in Computer and Information Science series" src="assets/images/springer.png">
 		</div>
 
 	</div>
