@@ -5,7 +5,7 @@ permalink: "/submission/"
 image: assets/images/banner-alt.png
 ---
 
-> ##### **Link:** [Microsoft CMT](https://cmt3.research.microsoft.com/ICSGET2026)
+> ##### **Link:** [Microsoft CMT](#)
 
 ## Instructions to Authors
 
@@ -29,7 +29,7 @@ Authors are requested to follow these guidelines before submitting their papers:
 
 We recommend authors to use WORD template. It is planned to publish the proceedings  with Springer in their Communications in Computer and Information Science series (final approval pending).  
 > ##### **Template:** [MS Word](#)  
-> ##### **Submission Link:** [Microsoft CMT](https://cmt3.research.microsoft.com/ICSGET2026)
+> ##### **Submission Link:** [Microsoft CMT](#)
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
