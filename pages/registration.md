@@ -13,12 +13,12 @@ image: assets/images/banner-alt.png
   </tr>
   <tr>
     <td> Faculty/Students </td>
-    <td> Rs. 9000/- </td>
+    <td> Rs. 10000/- </td>
 	<td> 150 USD </td>
   </tr>
   <tr>
     <td> Industry </td>
-    <td> Rs. 9000/- </td>
+    <td> Rs. 10000/- </td>
 	<td> 150 USD </td>
   </tr>
 </table>
@@ -27,7 +27,7 @@ image: assets/images/banner-alt.png
 
 Please fill out the registration form using the link below:
 
-**[Register Now](https://forms.gle/nY5wPb7oyT59EcDg7)**
+**[Register Now](#)**
 
 **Important:** After making your payment, you will need to upload a payment receipt (screenshot, PDF, etc.) in the registration form to complete your registration.
 

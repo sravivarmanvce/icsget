@@ -35,13 +35,12 @@ The ICSGET-2026 is a platform both for industry and academia to present and disc
 - Recyclable and Biodegradable Materials
 - Nanomaterials for Therapeutics and Diagnostics
 
-**Track 5: AI and Machine Learning Innovations in Energy, Environment, and Healthcare**
+**Track 5: AI and Machine Learning Innovations in Energy and Environment**
 - AI and ML Applications in Smart Energy Systems
 - Intelligent Environmental Monitoring and Sustainability Solutions
-- Machine Learning in Healthcare and Biomedical Engineering
 - Data-Driven Decision Support Systems and Optimization Models
 - Ethical AI, Privacy, and Responsible Innovation in Critical Sectors
 
-Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. It is planned to publish the proceedings  with Springer in their Communications in Computer and Information Science series (final approval pending).
+Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. The conference proceedings are proposed to be published in **Springer Conference Proceedings** or **AIP Conference Proceedings** (final approval pending).
 
-![Springer - Communications in Computer and Information Science series](../assets/images/springer.png "Springer - Communications in Computer and Information Science series") 
+![Springer Conference Proceedings, AIP Conference Proceedings](../assets/images/springer.png "Springer Conference Proceedings, AIP Conference Proceedings") 
